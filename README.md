@@ -1,4 +1,4 @@
-# wsky-neat
+# bay\_area
 ===========
 
 A slack app that I made one time for the student design team that I'm on. It lives in Amazon Lambda, but I'm putting the code on github because I'm putting this on my resume (PUT ALL THE THINGS ON THE RESUME), and I figure that I should have a link to the code on the resume as well. If you're a recruiter reading this, hi. Nice to meet you. <sup>please <sup>hire <sup>me</sup></sup></sup>
